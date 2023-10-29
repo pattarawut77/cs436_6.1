@@ -1,0 +1,85 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = AppSystem
+build_property.RootNamespace = AppSystem
+build_property.ProjectDir = C:\Users\phatt\OneDrive\เดสก์ท็อป\AppSystem\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\phatt\OneDrive\เดสก์ท็อป\AppSystem
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/phatt/OneDrive/เดสก์ท็อป/AppSystem/Areas/Identity/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/phatt/OneDrive/เดสก์ท็อป/AppSystem/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/phatt/OneDrive/เดสก์ท็อป/AppSystem/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/phatt/OneDrive/เดสก์ท็อป/AppSystem/Pages/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/phatt/OneDrive/เดสก์ท็อป/AppSystem/Pages/Rangsit/CreateRangsit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmFuZ3NpdFxDcmVhdGVSYW5nc2l0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/phatt/OneDrive/เดสก์ท็อป/AppSystem/Pages/Rangsit/DeleteRangsit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmFuZ3NpdFxEZWxldGVSYW5nc2l0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/phatt/OneDrive/เดสก์ท็อป/AppSystem/Pages/Rangsit/EditRangsit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmFuZ3NpdFxFZGl0UmFuZ3NpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/phatt/OneDrive/เดสก์ท็อป/AppSystem/Pages/Rangsit/IndexRangsit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmFuZ3NpdFxJbmRleFJhbmdzaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/phatt/OneDrive/เดสก์ท็อป/AppSystem/Pages/Shared/_LoginPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/phatt/OneDrive/เดสก์ท็อป/AppSystem/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/phatt/OneDrive/เดสก์ท็อป/AppSystem/Pages/Siam/CreateSiam.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2lhbVxDcmVhdGVTaWFtLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/phatt/OneDrive/เดสก์ท็อป/AppSystem/Pages/Siam/DeleteSiam.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2lhbVxEZWxldGVTaWFtLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/phatt/OneDrive/เดสก์ท็อป/AppSystem/Pages/Siam/EditSiam.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2lhbVxFZGl0U2lhbS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/phatt/OneDrive/เดสก์ท็อป/AppSystem/Pages/Siam/IndexSiam.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2lhbVxJbmRleFNpYW0uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/phatt/OneDrive/เดสก์ท็อป/AppSystem/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/phatt/OneDrive/เดสก์ท็อป/AppSystem/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/phatt/OneDrive/เดสก์ท็อป/AppSystem/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-ns6i19sx3z
